@@ -17,13 +17,13 @@ global.APIKeys = {
 }
 
 
-global.ownername = 'TIPENG REAL'
+global.ownername = 'TakStore'
 global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global.owner = ['6282136031499','6282136031499','6282136031499']
-global.premium = ['6282136031499']
+global.owner = ['6281270878188']
+global.premium = ['6281270878188']
 global.packname = 'The Tipeng Bot'
 global.author = 'WhatsApp Bot'
 global.wlcm = []
